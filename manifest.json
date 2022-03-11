@@ -1,23 +1,18 @@
 {
-    "manifest_version": 2,
-    "name": "Julia Github Search",
-    "description": "To use, type 'jl' plus a package name into the url bar.",
-    "version": "1.0",
-    "icons": {
-        "48": "icons/unbothered-48.png",
-        "96": "icons/unbothered-96.png"
-    },
-    "omnibox": {
-        "keyword": "jl"
-    },
-    "background": {
-        "scripts": [
-            "background.js"
-        ]
-    },
-    "browser_specific_settings": {
-        "gecko": {
-            "id": "vincentmolin@gmail.com"
-        }
-    }
+  "manifest_version": 2,
+  "name": "Julia Omnibox Github Search",
+  "description": "To use, type 'jl' plus a package name into the url bar.",
+  "version": "1.0",
+  "icons": {
+    "48": "icons/unbothered-48.png",
+    "96": "icons/unbothered-96.png"
+  },
+  "omnibox": {
+    "keyword": "jl"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  }
 }
