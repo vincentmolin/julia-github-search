@@ -9,4 +9,4 @@ in the address bar navigates to the top github hit for the repository search que
 
 ## Installation
 
-[Install extension](julia_omnibox_github_search-1.0-fx.xpi)
+[Install extension](https://github.com/vincentmolin/julia-github-search/raw/main/julia_omnibox_github_search-1.0-fx.xpi)
